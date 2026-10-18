@@ -1,0 +1,1 @@
+</main><footer class="footer">Employee Information and Payroll System · Academic Project Demo</footer></body></html>
